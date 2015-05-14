@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+//
 namespace Lab1
 {
     public partial class Lab1 : System.Web.UI.Page
